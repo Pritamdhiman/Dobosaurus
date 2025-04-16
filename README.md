@@ -12,7 +12,7 @@ A simple Chrome T-rex game using Java's Swing and AWT.
 ## Installation
 
 To get my project make sure that you have Java (JDK or JRE 8+) installed.
-- To chech if Java is insralled use :
+- To check if Java is insralled use :
 ```bash
 java --version
 ```
